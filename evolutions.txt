@@ -1,0 +1,275 @@
+{'Ivysaur', 'Venusaur', 'Bulbasaur'}
+{'Charmeleon', 'Charmander', 'Charizard'}
+{'Blastoise', 'Wartortle', 'Squirtle'}
+{'Caterpie', 'Butterfree', 'Metapod'}
+{'Kakuna', 'Weedle', 'Beedrill'}
+{'Pidgey', 'Pidgeot', 'Pidgeotto'}
+{'Raticate', 'Rattata'}
+{'Fearow', 'Spearow'}
+{'Arbok', 'Ekans'}
+{'Pichu', 'Raichu', 'Pikachu'}
+{'Sandshrew', 'Sandslash'}
+{'Nidoran♀', 'Nidorina', 'Nidoqueen'}
+{'Nidoking', 'Nidoran♂', 'Nidorino'}
+{'Clefable', 'Clefairy', 'Cleffa'}
+{'Vulpix', 'Ninetales'}
+{'Jigglypuff', 'Wigglytuff', 'Igglybuff'}
+{'Golbat', 'Crobat', 'Zubat'}
+{'Vileplume', 'Oddish', 'Gloom', 'Bellossom'}
+{'Parasect', 'Paras'}
+{'Venomoth', 'Venonat'}
+{'Diglett', 'Dugtrio'}
+{'Meowth', 'Persian'}
+{'Golduck', 'Psyduck'}
+{'Primeape', 'Mankey'}
+{'Arcanine', 'Growlithe'}
+{'Poliwhirl', 'Poliwag', 'Politoed', 'Poliwrath'}
+{'Alakazam', 'Abra', 'Kadabra'}
+{'Machoke', 'Machop', 'Machamp'}
+{'Victreebel', 'Weepinbell', 'Bellsprout'}
+{'Tentacruel', 'Tentacool'}
+{'Graveler', 'Geodude', 'Golem'}
+{'Rapidash', 'Ponyta'}
+{'Slowpoke', 'Slowbro', 'Slowking'}
+{'Magnezone', 'Magnemite', 'Magneton'}
+{'Doduo', 'Dodrio'}
+{'Seel', 'Dewgong'}
+{'Grimer', 'Muk'}
+{'Shellder', 'Cloyster'}
+{'Haunter', 'Gastly', 'Gengar'}
+{'Onix', 'Steelix'}
+{'Drowzee', 'Hypno'}
+{'Kingler', 'Krabby'}
+{'Electrode', 'Voltorb'}
+{'Exeggutor', 'Exeggcute'}
+{'Cubone', 'Marowak'}
+{'Tyrogue', 'Hitmonlee', 'Hitmonchan', 'Hitmontop'}
+{'Lickilicky', 'Lickitung'}
+{'Weezing', 'Koffing'}
+{'Rhyperior', 'Rhyhorn', 'Rhydon'}
+{'Blissey', 'Happiny', 'Chansey'}
+{'Tangela', 'Tangrowth'}
+{'Horsea', 'Kingdra', 'Seadra'}
+{'Goldeen', 'Seaking'}
+{'Staryu', 'Starmie'}
+{'Mime Jr.', 'Mr. Mime'}
+{'Scizor', 'Scyther'}
+{'Smoochum', 'Jynx'}
+{'Electivire', 'Elekid', 'Electabuzz'}
+{'Magmar', 'Magby', 'Magmortar'}
+{'Magikarp', 'Gyarados'}
+{'Eevee', 'Jolteon', 'Flareon', 'Vaporeon', 'Espeon', 'Umbreon', 'Leafeon', 'Glaceon'}
+{'Porygon-Z', 'Porygon2', 'Porygon'}
+{'Omastar', 'Omanyte'}
+{'Kabutops', 'Kabuto'}
+{'Munchlax', 'Snorlax'}
+{'Dragonite', 'Dragonair', 'Dratini'}
+{'Meganium', 'Chikorita', 'Bayleef'}
+{'Typhlosion', 'Quilava', 'Cyndaquil'}
+{'Feraligatr', 'Croconaw', 'Totodile'}
+{'Furret', 'Sentret'}
+{'Hoothoot', 'Noctowl'}
+{'Ledian', 'Ledyba'}
+{'Ariados', 'Spinarak'}
+{'Lanturn', 'Chinchou'}
+{'Togekiss', 'Togetic', 'Togepi'}
+{'Natu', 'Xatu'}
+{'Flaaffy', 'Mareep', 'Ampharos'}
+{'Azurill', 'Azumarill', 'Marill'}
+{'Sudowoodo', 'Bonsly'}
+{'Skiploom', 'Hoppip', 'Jumpluff'}
+{'Aipom', 'Ambipom'}
+{'Sunflora', 'Sunkern'}
+{'Yanma', 'Yanmega'}
+{'Wooper', 'Quagsire'}
+{'Honchkrow', 'Murkrow'}
+{'Mismagius', 'Misdreavus'}
+{'Wobbuffet', 'Wynaut'}
+{'Forretress', 'Pineco'}
+{'Gligar', 'Gliscor'}
+{'Granbull', 'Snubbull'}
+{'Weavile', 'Sneasel'}
+{'Teddiursa', 'Ursaring'}
+{'Magcargo', 'Slugma'}
+{'Mamoswine', 'Swinub', 'Piloswine'}
+{'Octillery', 'Remoraid'}
+{'Mantyke', 'Mantine'}
+{'Houndour', 'Houndoom'}
+{'Phanpy', 'Donphan'}
+{'Tyranitar', 'Pupitar', 'Larvitar'}
+{'Sceptile', 'Grovyle', 'Treecko'}
+{'Combusken', 'Blaziken', 'Torchic'}
+{'Mudkip', 'Swampert', 'Marshtomp'}
+{'Poochyena', 'Mightyena'}
+{'Zigzagoon', 'Linoone'}
+{'Wurmple', 'Beautifly', 'Cascoon', 'Dustox', 'Silcoon'}
+{'Lombre', 'Ludicolo', 'Lotad'}
+{'Seedot', 'Shiftry', 'Nuzleaf'}
+{'Swellow', 'Taillow'}
+{'Wingull', 'Pelipper'}
+{'Ralts', 'Gallade', 'Kirlia', 'Gardevoir'}
+{'Surskit', 'Masquerain'}
+{'Shroomish', 'Breloom'}
+{'Slaking', 'Vigoroth', 'Slakoth'}
+{'Ninjask', 'Shedinja', 'Nincada'}
+{'Whismur', 'Exploud', 'Loudred'}
+{'Hariyama', 'Makuhita'}
+{'Nosepass', 'Probopass'}
+{'Skitty', 'Delcatty'}
+{'Aron', 'Lairon', 'Aggron'}
+{'Medicham', 'Meditite'}
+{'Electrike', 'Manectric'}
+{'Roserade', 'Budew', 'Roselia'}
+{'Swalot', 'Gulpin'}
+{'Carvanha', 'Sharpedo'}
+{'Wailmer', 'Wailord'}
+{'Camerupt', 'Numel'}
+{'Spoink', 'Grumpig'}
+{'Trapinch', 'Vibrava', 'Flygon'}
+{'Cacturne', 'Cacnea'}
+{'Swablu', 'Altaria'}
+{'Whiscash', 'Barboach'}
+{'Corphish', 'Crawdaunt'}
+{'Claydol', 'Baltoy'}
+{'Cradily', 'Lileep'}
+{'Armaldo', 'Anorith'}
+{'Feebas', 'Milotic'}
+{'Shuppet', 'Banette'}
+{'Duskull', 'Dusclops', 'Dusknoir'}
+{'Chingling', 'Chimecho'}
+{'Snorunt', 'Glalie', 'Froslass'}
+{'Walrein', 'Sealeo', 'Spheal'}
+{'Huntail', 'Gorebyss', 'Clamperl'}
+{'Shelgon', 'Bagon', 'Salamence'}
+{'Metang', 'Beldum', 'Metagross'}
+{'Turtwig', 'Grotle', 'Torterra'}
+{'Chimchar', 'Infernape', 'Monferno'}
+{'Piplup', 'Prinplup', 'Empoleon'}
+{'Staraptor', 'Staravia', 'Starly'}
+{'Bibarel', 'Bidoof'}
+{'Kricketune', 'Kricketot'}
+{'Luxray', 'Luxio', 'Shinx'}
+{'Cranidos', 'Rampardos'}
+{'Shieldon', 'Bastiodon'}
+{'Mothim', 'Burmy', 'Wormadam'}
+{'Combee', 'Vespiquen'}
+{'Floatzel', 'Buizel'}
+{'Cherrim', 'Cherubi'}
+{'Gastrodon', 'Shellos'}
+{'Drifblim', 'Drifloon'}
+{'Buneary', 'Lopunny'}
+{'Purugly', 'Glameow'}
+{'Skuntank', 'Stunky'}
+{'Bronzong', 'Bronzor'}
+{'Gabite', 'Garchomp', 'Gible'}
+{'Lucario', 'Riolu'}
+{'Hippowdon', 'Hippopotas'}
+{'Drapion', 'Skorupi'}
+{'Toxicroak', 'Croagunk'}
+{'Lumineon', 'Finneon'}
+{'Abomasnow', 'Snover'}
+{'Snivy', 'Servine', 'Serperior'}
+{'Tepig', 'Pignite', 'Emboar'}
+{'Oshawott', 'Samurott', 'Dewott'}
+{'Patrat', 'Watchog'}
+{'Lillipup', 'Stoutland', 'Herdier'}
+{'Purrloin', 'Liepard'}
+{'Pansage', 'Simisage'}
+{'Pansear', 'Simisear'}
+{'Panpour', 'Simipour'}
+{'Munna', 'Musharna'}
+{'Unfezant', 'Tranquill', 'Pidove'}
+{'Zebstrika', 'Blitzle'}
+{'Boldore', 'Roggenrola', 'Gigalith'}
+{'Swoobat', 'Woobat'}
+{'Drilbur', 'Excadrill'}
+{'Timburr', 'Gurdurr', 'Conkeldurr'}
+{'Seismitoad', 'Tympole', 'Palpitoad'}
+{'Leavanny', 'Sewaddle', 'Swadloon'}
+{'Scolipede', 'Venipede', 'Whirlipede'}
+{'Whimsicott', 'Cottonee'}
+{'Petilil', 'Lilligant'}
+{'Sandile', 'Krokorok', 'Krookodile'}
+{'Darumaka', 'Darmanitan'}
+{'Crustle', 'Dwebble'}
+{'Scraggy', 'Scrafty'}
+{'Cofagrigus', 'Yamask'}
+{'Tirtouga', 'Carracosta'}
+{'Archeops', 'Archen'}
+{'Garbodor', 'Trubbish'}
+{'Zorua', 'Zoroark'}
+{'Minccino', 'Cinccino'}
+{'Gothita', 'Gothitelle', 'Gothorita'}
+{'Reuniclus', 'Duosion', 'Solosis'}
+{'Ducklett', 'Swanna'}
+{'Vanillite', 'Vanillish', 'Vanilluxe'}
+{'Sawsbuck', 'Deerling'}
+{'Karrablast', 'Escavalier'}
+{'Amoonguss', 'Foongus'}
+{'Frillish', 'Jellicent'}
+{'Galvantula', 'Joltik'}
+{'Ferroseed', 'Ferrothorn'}
+{'Klang', 'Klink', 'Klinklang'}
+{'Eelektrik', 'Tynamo', 'Eelektross'}
+{'Elgyem', 'Beheeyem'}
+{'Litwick', 'Lampent', 'Chandelure'}
+{'Haxorus', 'Fraxure', 'Axew'}
+{'Beartic', 'Cubchoo'}
+{'Accelgor', 'Shelmet'}
+{'Mienshao', 'Mienfoo'}
+{'Golurk', 'Golett'}
+{'Bisharp', 'Pawniard'}
+{'Rufflet', 'Braviary'}
+{'Vullaby', 'Mandibuzz'}
+{'Hydreigon', 'Zweilous', 'Deino'}
+{'Volcarona', 'Larvesta'}
+{'Chesnaught', 'Chespin', 'Quilladin'}
+{'Fennekin', 'Delphox', 'Braixen'}
+{'Froakie', 'Frogadier', 'Greninja'}
+{'Bunnelby', 'Diggersby'}
+{'Talonflame', 'Fletchinder', 'Fletchling'}
+{'Scatterbug', 'Vivillon', 'Spewpa'}
+{'Pyroar', 'Litleo'}
+{'Flabébé', 'Floette', 'Florges'}
+{'Gogoat', 'Skiddo'}
+{'Pancham', 'Pangoro'}
+{'Meowstic', 'Espurr'}
+{'Honedge', 'Doublade', 'Aegislash'}
+{'Spritzee', 'Aromatisse'}
+{'Swirlix', 'Slurpuff'}
+{'Inkay', 'Malamar'}
+{'Binacle', 'Barbaracle'}
+{'Skrelp', 'Dragalge'}
+{'Clauncher', 'Clawitzer'}
+{'Heliolisk', 'Helioptile'}
+{'Tyrantrum', 'Tyrunt'}
+{'Aurorus', 'Amaura'}
+{'Goomy', 'Goodra', 'Sliggoo'}
+{'Phantump', 'Trevenant'}
+{'Pumpkaboo', 'Gourgeist'}
+{'Avalugg', 'Bergmite'}
+{'Noibat', 'Noivern'}
+{'Dartrix', 'Rowlet', 'Decidueye'}
+{'Incineroar', 'Torracat', 'Litten'}
+{'Brionne', 'Popplio', 'Primarina'}
+{'Pikipek', 'Trumbeak', 'Toucannon'}
+{'Yungoos', 'Gumshoos'}
+{'Grubbin', 'Vikavolt', 'Charjabug'}
+{'Crabrawler', 'Crabominable'}
+{'Cutiefly', 'Ribombee'}
+{'Rockruff', 'Lycanroc'}
+{'Toxapex', 'Mareanie'}
+{'Mudbray', 'Mudsdale'}
+{'Dewpider', 'Araquanid'}
+{'Fomantis', 'Lurantis'}
+{'Morelull', 'Shiinotic'}
+{'Salazzle', 'Salandit'}
+{'Bewear', 'Stufful'}
+{'Steenee', 'Bounsweet', 'Tsareena'}
+{'Wimpod', 'Golisopod'}
+{'Sandygast', 'Palossand'}
+{'Type: Null', 'Silvally'}
+{'Kommo-o', 'Hakamo-o', 'Jangmo-o'}
+{'Lunala', 'Solgaleo', 'Cosmoem', 'Cosmog'}
+{'Poipole', 'Naganadel'}
+{'Meltan', 'Melmetal'}
