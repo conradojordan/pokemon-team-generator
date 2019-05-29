@@ -12,7 +12,7 @@ pip install PyQt5
 
 ## Screenshot
 
-![Screenshot](screenshot.png "Program screenshot with sample pokemon team")
+<img src="screenshot.png" alt="Screenshot of program running and sample pokemon team" width="600"/>
 
 
 ## License
