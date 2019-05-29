@@ -10,6 +10,11 @@ To run this program you need PyQt5 installed. Install it with:
 pip install PyQt5
 ```
 
+## Screenshot
+
+![Screenshot](screenshot.png "Program screenshot with sample pokemon team")
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
