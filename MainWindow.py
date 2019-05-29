@@ -426,7 +426,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Pokemon Picker v1.0"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Pokemon Team Generator v1.1"))
         self.labelParameters.setText(_translate("MainWindow", "Parameters"))
         self.checkLegends.setText(_translate("MainWindow", "Include legendaries"))
         self.checkRepetitions.setText(_translate("MainWindow", "Allow repetitions"))
@@ -468,4 +468,3 @@ class Ui_MainWindow(object):
         self.labelPokemon4.setText(_translate("MainWindow", "Pokémon 4 - "))
         self.labelPokemon5.setText(_translate("MainWindow", "Pokémon 5 - "))
         self.labelPokemon6.setText(_translate("MainWindow", "Pokémon 6 - "))
-
